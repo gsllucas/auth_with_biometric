@@ -1,4 +1,4 @@
-# flutter_app
+# Biometric Authentication
 
 A Flutter App with biometric authentication, it allows the user to authenticate with fingertip or facial recognition
 
