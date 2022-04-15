@@ -7,4 +7,4 @@ A Flutter App with biometric authentication, it allows the user to authenticate 
 - local_auth
 - encrypted_shared_preferences
 
-<img src="biometric.png" />
+<img src="biometric.png" width="300px" />
